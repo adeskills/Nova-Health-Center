@@ -37,18 +37,27 @@ Support physicians with actionable, interpretable insights.
 
 Enable personalized lifestyle and treatment recommendations.
 
+
 Dataset
 
 The dataset provided includes anonymized patient records with the following features:
 
 Feature	Description
+
 Age---Patient age (years)
+
 BMI---Body Mass Index
+
 BloodPressure---Resting blood pressure (mm Hg)
+
 Glucose	Blood---glucose level (mg/dL)
+
 Insulin	Blood---insulin level (μU/mL)
+
 ExerciseDays---Days of exercise per week
+
 FamilyHistory---Binary indicator of diabetes in immediate family
+
 DiabetesRiskScore---Target variable indicating diabetes risk
 
 Note: All data has been anonymized and is used in compliance with data protection regulations.
