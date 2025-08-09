@@ -26,7 +26,7 @@ Physicians have emphasized the need for a data-driven early detection system to:
 
 Project Objectives
 
-The aim of this project is to leverage patient health records to develop a machine learning model that predicts an individual’s risk of developing diabetes.
+The aim of this project is to leverage anonymous patient health records to develop a machine learning model that predicts an individual’s risk of developing diabetes.
 
 The solution will:
 
