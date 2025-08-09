@@ -1,6 +1,7 @@
-Diabetes Risk Prediction – Nova Health Center
+Nova Health Center- Diabetes Risk Prediction
 
 Project Overview
+
 Nova Health Center is a multi-specialty clinic serving over 20,000 patients annually across both urban and rural areas.
 
 In recent years, the prevalence of diabetes among patients has been rising steadily, now affecting 1 in 10 adults,consistent with global statistics (WHO, 2023).
